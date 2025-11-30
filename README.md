@@ -1,1 +1,1 @@
-# InHouseChatbotSystemProject
+# Secure-Internal-Chatbot-Design
