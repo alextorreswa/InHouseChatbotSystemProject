@@ -191,7 +191,3 @@ CTRL + C
 ```
 
 ---
-
-## System is Operational
-
-Your secure login prototype is ready for demonstration and assignment submission.
